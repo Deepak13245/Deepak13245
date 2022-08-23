@@ -1,10 +1,26 @@
 <h1 align="center">Hi 👋, I'm Deepak</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Muggle</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=deepak13245&label=Profile%20views&color=0e75b6&style=flat" alt="deepak13245" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deepak13245" alt="deepak13245" /></a> </p>
 
+- 🌱 I’m currently learning **Stream processing, Data warehousing**
+
+- 📝 I regularly write articles on [https://dbuddy.medium.com/](https://dbuddy.medium.com/)
+
+- 📫 How to reach me **deepak.kumar13245@gmail.com**
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/deepak-kumar-13245" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deepak-kumar-13245" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/4813463" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4813463" height="30" width="40" /></a>
+<a href="https://instagram.com/not.undefined" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="not.undefined" height="30" width="40" /></a>
+<a href="https://medium.com/@dbuddy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@dbuddy" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
