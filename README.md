@@ -13,10 +13,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [MongoDB updates with mongoose and Node.js streams](https://dbuddy.medium.com/mongodb-updates-with-mongoose-and-node-js-streams-c1839783b07d?source=rss-575b5887efc------2)
 - [Implementing Set data structure  in Go using generics](https://dbuddy.medium.com/implementing-set-data-structure-in-go-using-generics-4a967f823bfb?source=rss-575b5887efc------2)
 - [Mastering concurrency with JavaScript/Node.JS](https://javascript.plainenglish.io/mastering-concurrency-with-javascript-nodejs-289816acc641?source=rss-575b5887efc------2)
 - [Using React hooks to handle API calls](https://dbuddy.medium.com/using-react-hooks-to-handle-api-calls-d6bb4ae91188?source=rss-575b5887efc------2)
-- [Benchmarking Lodash get vs babel optional chaining and babel nullish-coalescing](https://dbuddy.medium.com/benchmarking-lodash-get-vs-babel-optional-chaining-and-babel-nullish-coalescing-9f9e76787394?source=rss-575b5887efc------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
